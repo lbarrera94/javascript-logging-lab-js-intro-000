@@ -44,4 +44,3 @@ describe('index', () => {
     })
   })
 })
-window.word
